@@ -1,0 +1,6 @@
+module Pods_customNavbar_customNavbarTests {
+  umbrella header "Pods-customNavbar-customNavbarTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
